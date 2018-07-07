@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces>
+    <province name="อุบลราชธานี" potential_sum="6361.201940774" potential_ind="5842.772355742"
+              potential_bud="518.429585031133" lat="15.2286861" long="104.8564217">
+        <ind tsic="10795" potential="3166.11801912697"></ind>
+        <ind tsic="16220" potential="294.657174131237"></ind>
+        <ind tsic="23951" potential="7.14753650222516"></ind>
+        <ind tsic="23953" potential="1276.64160590853"></ind>
+        <ind tsic="23961" potential="1098.20802007385"></ind>
+        <bud type="โรงพยาบาล" potential="468.749529949451"></bud>
+        <bud type="โรงแรม" potential="49.6800550816823"></bud>
+    </province>
+    <province name="กรุงเทพมหานคร" potential_sum="235269.557220053" potential_ind="178076.657021115"
+              potential_bud="57192.9001989377" lat="13.7278956" long="100.5241235">
+        <ind tsic="10712" potential="9270.1846416059"></ind>
+        <ind tsic="15209" potential="10428.1033992993"></ind>
+        <ind tsic="20131" potential="325.452135214468"></ind>
+        <ind tsic="20222" potential="1194.09760439352"></ind>
+        <ind tsic="22199" potential="25778.7236057191"></ind>
+        <ind tsic="22220" potential="27209.9779850392"></ind>
+        <ind tsic="22299" potential="2670.08805984282"></ind>
+        <ind tsic="25921" potential="65393.6476185966"></ind>
+        <ind tsic="29309" potential="35806.3819714041"></ind>
+        <bud type="โรงเรียน" potential="36558.4167212182"></bud>
+        <bud type="โรงแรม" potential="20439.2190275622"></bud>
+        <bud type="ห้างสรรพสินค้า" potential="195.264450157319"></bud>
+    </province>
+    <province name="สุรินทร์" potential_sum="99749.4046466433" potential_ind="99122.8681572957"
+              potential_bud="626.536489347519" lat="14.882905" long="103.4937107">
+        <ind tsic="10611" potential="98700.2414544077"></ind>
+        <ind tsic="23921" potential="77.405417024936"></ind>
+        <ind tsic="23961" potential="345.221285863081"></ind>
+        <bud type="โรงพยาบาล" potential="579.476459312485"></bud>
+        <bud type="โรงเรียน" potential="24.1457447211437"></bud>
+        <bud type="ห้างสรรพสินค้า" potential="22.9142853138905"></bud>
+    </province>
+    <province name="เชียงราย" potential_sum="91114.0715368024" potential_ind="90466.0344479215"
+              potential_bud="648.037088880843" lat="19.9071656" long="99.830955">
+        <ind tsic="10503" potential="186.068381308588"></ind>
+        <ind tsic="10611" potential="83466.2974192784"></ind>
+        <ind tsic="10795" potential="888.476765931255"></ind>
+        <ind tsic="11041" potential="9.21819524666225"></ind>
+        <ind tsic="12001" potential="5915.97368615661"></ind>
+        <bud type="โรงแรม" potential="648.037088880843"></bud>
+    </province>
+    <province name="มุกดาหาร" potential_sum="67229.086354055" potential_ind="67143.8458439484"
+              potential_bud="85.2405101066569" lat="16.542443" long="104.7209151">
+        <ind tsic="10611" potential="67041.0685453971"></ind>
+        <ind tsic="11041" potential="18.3232364359435"></ind>
+        <ind tsic="23953" potential="84.4540621153298"></ind>
+        <bud type="โรงพยาบาล" potential="85.2405101066569"></bud>
+    </province>
+    <province name="สมุทรสาคร" potential_sum="59210.0929911237" potential_ind="58529.7765055392"
+              potential_bud="680.316485584537" lat="13.5475216" long="100.2743956">
+        <ind tsic="22220" potential="58529.7765055392"></ind>
+        <bud type="โรงพยาบาล" potential="528.079538325754"></bud>
+        <bud type="ห้างสรรพสินค้า" potential="152.236947258782"></bud>
+    </province>
+    <province name="นครราชสีมา" potential_sum="45605.2762990441" potential_ind="42300.592956917"
+              potential_bud="3304.6833421271" lat="14.9798997" long="102.0977693">
+        <ind tsic="16220" potential="2599.7627023956"></ind>
+        <ind tsic="23953" potential="17768.9709919515"></ind>
+        <ind tsic="23961" potential="19568.0312849162"></ind>
+        <ind tsic="31001" potential="2363.82797765363"></ind>
+        <bud type="โรงพยาบาล" potential="3033.89679062184"></bud>
+        <bud type="โรงแรม" potential="270.786551505261"></bud>
+    </province>
+    <province name="เชียงใหม่" potential_sum="37817.749349152" potential_ind="26766.1582198692"
+              potential_bud="11051.5911292828" lat="18.7877477" long="98.9931311">
+        <ind tsic="10304" potential="4414.82715210049"></ind>
+        <ind tsic="10501" potential="1191.42581194962"></ind>
+        <ind tsic="10611" potential="10334.3269955497"></ind>
+        <ind tsic="10795" potential="6560.80416627211"></ind>
+        <ind tsic="11041" potential="275.505984916758"></ind>
+        <ind tsic="12001" potential="346.649644919988"></ind>
+        <ind tsic="16220" potential="1598.99857967995"></ind>
+        <ind tsic="20131" potential="125.490389167692"></ind>
+        <ind tsic="22220" potential="1687.76767351576"></ind>
+        <ind tsic="23961" potential="230.361821797178"></ind>
+        <bud type="โรงแรม" potential="648.037088880843"></bud>
+        <bud type="โรงเรียน" potential="4460.27962975728"></bud>
+        <bud type="โรงแรม" potential="3865.0180395158"></bud>
+        <bud type="โรงพยาบาล" potential="2726.29346000968"></bud>
+    </province>
+    <province name="ศรีสะเกษ" potential_sum="35362.9235949013" potential_ind="35071.7201780133"
+              potential_bud="291.203416887954" lat="15.1186009" long="104.3220095">
+        <ind tsic="10611" potential="35071.7201780133"></ind>
+        <bud type="โรงพยาบาล" potential="287.902427098986"></bud>
+        <bud type="ห้างสรรพสินค้า" potential="3.30098978896796"></bud>
+    </province>
+    <province name="ลำปาง" potential_sum="34203.8105722522" potential_ind="27673.7954513777"
+              potential_bud="6530.01512087453" lat="18.2888404" long="99.490874">
+        <ind tsic="10304" potential="1420.20359435659"></ind>
+        <ind tsic="10501" potential="9.81868468894991"></ind>
+        <ind tsic="10611" potential="21837.7186339362"></ind>
+        <ind tsic="10795" potential="3230.99034295992"></ind>
+        <ind tsic="11041" potential="18.2889090048291"></ind>
+        <ind tsic="12001" potential="1156.77528643121"></ind>
+        <bud type="โรงเรียน" potential="6241.40650771985"></bud>
+        <bud type="โรงพยาบาล" potential="261.781176856626"></bud>
+        <bud type="โรงแรม" potential="26.827436298049"></bud>
+    </province>
+    <province name="พะเยา" potential_sum="31405.6637060884" potential_ind="31405.6637060884" potential_bud="0"
+              lat="19.1664789" long="99.9019419">
+        <ind tsic="10611" potential="31405.6637060884"></ind>
+    </province>
+    <province name="พัทลุง" potential_sum="29271.5313325441" potential_ind="28967.7113909668"
+              potential_bud="303.819941577324" lat="7.6166823" long="100.0740231">
+        <ind tsic="10611" potential="28967.7113909668"></ind>
+        <bud type="โรงพยาบาล" potential="156.119873638683"></bud>
+        <bud type="โรงเรียน" potential="147.700067938641"></bud>
+    </province>
+    <province name="ลำพูน" potential_sum="21507.44509153" potential_ind="21138.2977027388"
+              potential_bud="369.14738879119" lat="18.5744606" long="99.0087221">
+        <ind tsic="10304" potential="304.958890126408"></ind>
+        <ind tsic="10611" potential="20407.9159170533"></ind>
+        <ind tsic="10712" potential="422.790190322886"></ind>
+        <ind tsic="11041" potential="2.63270523624657"></ind>
+        <bud type="โรงพยาบาล" potential="369.14738879119"></bud>
+    </province>
+    <province name="ชลบุรี" potential_sum="19408.9885420308" potential_ind="13916.815304507"
+              potential_bud="5492.17323752377" lat="13.3611431" long="100.9846717">
+        <ind tsic="20131" potential="129.759402518701"></ind>
+        <ind tsic="22230" potential="2588.74654729666"></ind>
+        <ind tsic="23921" potential="1026.35826152826"></ind>
+        <ind tsic="23941" potential="79.2510318151689"></ind>
+        <ind tsic="23961" potential="4404.43229579574"></ind>
+        <ind tsic="29309" potential="4322.16474500521"></ind>
+        <ind tsic="36002" potential="1366.1030205473"></ind>
+        <bud type="โรงเรียน" potential="4973.05165319658"></bud>
+        <bud type="ห้างสรรพสินค้า" potential="265.488512451472"></bud>
+        <bud type="โรงพยาบาล" potential="253.633071875721"></bud>
+    </province>
+    <province name="สกลนคร" potential_sum="17729.7043193585" potential_ind="16782.032232743"
+              potential_bud="947.672086615437" lat="17.1545995" long="104.1348365">
+        <ind tsic="10611" potential="16286.8826815642"></ind>
+        <ind tsic="11041" potential="87.0269491525422"></ind>
+        <ind tsic="23953" potential="408.122602026323"></ind>
+        <bud type="โรงพยาบาล" potential="50.2882285196774"></bud>
+
+    </province>
+    <province name="นครสวรรค์" potential_sum="17712.7875183221" potential_ind="17712.7875183221" potential_bud="0"
+              lat="15.6930072" long="100.1225595">
+        <ind tsic="10611" potential="15564.3091545308"></ind>
+        <ind tsic="23961" potential="2148.47836379131"></ind>
+
+    </province>
+    <province name="พิจิตร" potential_sum="11462.1114477795" potential_ind="11462.1114477795" potential_bud="0"
+              lat="16.4429516" long="100.3482329">
+        <ind tsic="10611" potential="11462.1114477795"></ind>
+
+    </province>
+    <province name="สระแก้ว" potential_sum="11121.6006050452" potential_ind="10853.0290692169"
+              potential_bud="268.571535828321" lat="13.824038" long="102.0645839">
+        <ind tsic="10611" potential="1750.64103778051"></ind>
+        <ind tsic="10621" potential="9102.38803143642"></ind>
+        <bud type="โรงพยาบาล" potential="164.775053961073"></bud>
+        <bud type="โรงเรียน" potential="103.796481867247"></bud>
+
+    </province>
+    <province name="กาญจนบุรี" potential_sum="10215.3681125851" potential_ind="9340.58906628156"
+              potential_bud="874.779046303549" lat="14.0227797" long="99.5328115">
+        <ind tsic="10304" potential="2056.75815751348"></ind>
+        <ind tsic="10611" potential="6489.5667076981"></ind>
+        <ind tsic="10712" potential="566.356385522204"></ind>
+        <ind tsic="23961" potential="227.90781554777"></ind>
+        <bud type="โรงแรม" potential="874.779046303549"></bud>
+
+    </province>
+    <province name="ภูเก็ต" potential_sum="10090.3898237871" potential_ind="0" potential_bud="10090.3898237871"
+              lat="7.9810496" long="98.3638824">
+        <bud type="โรงแรม" potential="10090.3898237871"></bud>
+
+    </province>
+    <province name="ราชบุรี" potential_sum="7019.46135847987" potential_ind="6771.59126503172"
+              potential_bud="247.870093448147" lat="13.5282893" long="99.8134211">
+        <ind tsic="10611" potential="4408.00726825111"></ind>
+        <ind tsic="22220" potential="1127.66821323738"></ind>
+        <ind tsic="23953" potential="545.231189281317"></ind>
+        <ind tsic="31001" potential="690.684594261905"></ind>
+        <bud type="โรงแรม" potential="247.870093448147"></bud>
+
+    </province>
+    <province name="สุราษฎร์ธานี" potential_sum="6531.26646120126" potential_ind="893.688921503642"
+              potential_bud="5637.57753969762" lat="9.1382389" long="99.3217483">
+        <ind tsic="22191" potential="544.621650411891"></ind>
+        <ind tsic="36002" potential="349.067271091751"></ind>
+
+    </province>
+    <province name="อุตรดิตถ์" potential_sum="6178.06427421646" potential_ind="6178.06427421646" potential_bud="0"
+              lat="17.6200886" long="100.0992942">
+        <ind tsic="10611" potential="5310.36644257173"></ind>
+        <ind tsic="23953" potential="867.69783164473"></ind>
+        <bud type="โรงเรียน" potential="5637.57753969762"></bud>
+
+    </province>
+    <province name="ฉะเชิงเทรา" potential_sum="5874.30196499065" potential_ind="5262.9869735139"
+              potential_bud="611.314991476753" lat="13.6904194" long="101.0779596">
+        <ind tsic="22220" potential="5262.9869735139"></ind>
+
+    </province>
+    <province name="สมุทรปราการ" potential_sum="5417.85760378323" potential_ind="2582.95994697472"
+              potential_bud="2834.89765680851" lat="13.5990961" long="100.5998319">
+        <ind tsic="22220" potential="2582.95994697472"></ind>
+        <ind tsic="16220" potential="67.225690748982"></ind>
+        <bud type="โรงเรียน" potential="611.314991476753"></bud>
+
+    </province>
+    <province name="กระบี่" potential_sum="4880.15147415531" potential_ind="0" potential_bud="4880.15147415531"
+              lat="8.0862997" long="98.9062835">
+        <bud type="โรงแรม" potential="4880.15147415531"></bud>
+
+    </province>
+    <province name="สตูล" potential_sum="4593.89804159305" potential_ind="2459.61963829183"
+              potential_bud="2134.27840330123" lat="6.6238158" long="100.0673744">
+        <ind tsic="10795" potential="2387.8095066755"></ind>
+        <ind tsic="23961" potential="71.8101316163237"></ind>
+        <bud type="โรงเรียน" potential="1802.46069822933"></bud>
+        <bud type="โรงพยาบาล" potential="277.440416315663"></bud>
+        <bud type="โรงแรม" potential="54.3772887562374"></bud>
+
+    </province>
+    <province name="ปทุมธานี" potential_sum="4422.75222963287" potential_ind="1532.04590853139"
+              potential_bud="2890.70632110149" lat="14.0208391" long="100.5250276">
+        <ind tsic="22220" potential="1527.5463346274"></ind>
+        <ind tsic="24101" potential="4.49957390398637"></ind>
+        <bud type="โรงเรียน" potential="2890.70632110149"></bud>
+
+    </province>
+    <province name="เพชรบุรี" potential_sum="4319.62966087702" potential_ind="1529.5089874065"
+              potential_bud="2790.12067347053" lat="13.1111601" long="99.9391307">
+        <ind tsic="10611" potential="1529.5089874065"></ind>
+        <bud type="โรงแรม" potential="2790.12067347053"></bud>
+
+    </province>
+    <province name="ขอนแก่น" potential_sum="3868.9539927327" potential_ind="3321.50364548812"
+              potential_bud="547.450347244578" lat="16.4419355" long="102.8359921">
+        <ind tsic="23953" potential="3321.50364548812"></ind>
+        <bud type="โรงเรียน" potential="547.450347244578"></bud>
+
+    </province>
+    <province name="สงขลา" potential_sum="3467.62668198009" potential_ind="2505.44386521163"
+              potential_bud="962.182816768461" lat="7.1756004" long="100.614347">
+        <ind tsic="22220" potential="2505.44386521163"></ind>
+        <bud type="โรงแรม" potential="717.806264703836"></bud>
+        <bud type="โรงพยาบาล" potential="244.376552064625"></bud>
+
+    </province>
+    <province name="ลพบุรี" potential_sum="3466.84397861234" potential_ind="0" potential_bud="3466.84397861234"
+              lat="14.7995081" long="100.6533706">
+        <bud type="โรงเรียน" potential="3466.84397861234"></bud>
+
+    </province>
+    <province name="ตรัง" potential_sum="3370.763378389" potential_ind="1939.40532146577"
+              potential_bud="1431.35805692323" lat="7.5593851" long="99.6110065">
+        <ind tsic="23961" potential="221.276773032857"></ind>
+        <ind tsic="31001" potential="1718.12854843291"></ind>
+        <bud type="โรงเรียน" potential="1414.51038230881"></bud>
+        <bud type="โรงแรม" potential="10.9943585199708"></bud>
+        <bud type="โรงพยาบาล" potential="5.8533160944528"></bud>
+
+    </province>
+    <province name="อุดรธานี" potential_sum="3198.21775778809" potential_ind="0" potential_bud="3198.21775778809"
+              lat="17.4138413" long="102.7872325">
+        <bud type="โรงเรียน" potential="3198.21775778809"></bud>
+
+    </province>
+    <province name="มหาสารคาม" potential_sum="1.63510084272322" potential_ind="1.63510084272322" potential_bud="0"
+              lat="16.1850896" long="103.3026461">
+        <ind tsic="11041" potential="1.63510084272322"></ind>
+
+    </province>
+    <province name="แพร่" potential_sum="16.3358394091468" potential_ind="16.3358394091468" potential_bud="0"
+              lat="18.1445774" long="100.1402831">
+        <ind tsic="16291" potential="16.3358394091468"></ind>
+
+    </province>
+    <province name="บุรีรัมย์" potential_sum="34.4162840563703" potential_ind="0" potential_bud="34.4162840563703"
+              lat="14.9930017" long="103.1029191">
+        <bud type="โรงเรียน" potential="24.6495657608181"></bud>
+        <bud type="โรงแรม" potential="9.76671829555228"></bud>
+
+    </province>
+    <province name="ชัยนาท" potential_sum="35.6542425642005" potential_ind="0" potential_bud="35.6542425642005"
+              lat="15.1851971" long="100.125125">
+        <bud type="โรงเรียน" potential="35.6542425642005"></bud>
+
+    </province>
+    <province name="อำนาจเจริญ" potential_sum="46.6629813004331" potential_ind="0" potential_bud="46.6629813004331"
+              lat="15.8656783" long="104.6257774">
+        <bud type="โรงพยาบาล" potential="46.6629813004331"></bud>
+
+    </province>
+    <province name="สิงห์บุรี" potential_sum="64.1211029258591" potential_ind="0" potential_bud="64.1211029258591"
+              lat="14.8936253" long="100.3967314">
+        <bud type="โรงเรียน" potential="64.1211029258591"></bud>
+
+    </province>
+    <province name="ปัตตานี" potential_sum="97.5961988677679" potential_ind="0" potential_bud="97.5961988677679"
+              lat="6.8694844" long="101.2504826">
+        <bud type="โรงพยาบาล" potential="97.5961988677679"></bud>
+
+    </province>
+    <province name="ตาก" potential_sum="108.880977369567" potential_ind="108.880977369567" potential_bud="0"
+              lat="16.8839901" long="99.1258498">
+        <ind tsic="10743" potential="108.880977369567"></ind>
+
+    </province>
+    <province name="อ่างทอง" potential_sum="121.359024725109" potential_ind="0" potential_bud="121.359024725109"
+              lat="14.5896054" long="100.455052">
+        <bud type="โรงเรียน" potential="121.359024725109"></bud>
+
+    </province>
+    <province name="หนองบัวลำภู" potential_sum="168.302737240792" potential_ind="168.302737240792" potential_bud="0"
+              lat="17.2218247" long="102.4260368">
+        <ind tsic="10611" potential="168.302737240792"></ind>
+
+    </province>
+    <province name="สระบุรี" potential_sum="171.894822933434" potential_ind="171.894822933434" potential_bud="0"
+              lat="14.5289154" long="100.9101421">
+        <ind tsic="22220" potential="171.894822933434"></ind>
+
+    </province>
+    <province name="ยโสธร" potential_sum="236.043556481393" potential_ind="236.043556481393" potential_bud="0"
+              lat="15.792641" long="104.1452827">
+        <ind tsic="10795" potential="236.043556481393"></ind>
+
+    </province>
+    <province name="ร้อยเอ็ด" potential_sum="240.587306965564" potential_ind="0" potential_bud="240.587306965564"
+              lat="16.0538196" long="103.6520036">
+        <bud type="โรงพยาบาล" potential="240.587306965564"></bud>
+
+    </province>
+    <province name="แม่ฮ่องสอน" potential_sum="241.124516238991" potential_ind="241.124516238991" potential_bud="0"
+              lat="19.2990643" long="97.9656226">
+        <ind tsic="10795" potential="241.124516238991"></ind>
+    </province>
+    <province name="ชัยภูมิ" potential_sum="261.467320455183" potential_ind="0" potential_bud="261.467320455183"
+              lat="15.8068173" long="102.0315027">
+        <bud type="โรงพยาบาล" potential="261.467320455183"></bud>
+
+    </province>
+    <province name="สมุทรสงคราม" potential_sum="262.553661230978" potential_ind="67.225690748982"
+              potential_bud="195.327970481996" lat="13.4098217" long="100.0022645">
+        <ind tsic="16220" potential="67.225690748982"></ind>
+        <bud type="โรงพยาบาล" potential="135.095608494535"></bud>
+        <bud type="โรงแรม" potential="60.2323619874613"></bud>
+
+    </province>
+    <province name="หนองคาย" potential_sum="281.981997007105" potential_ind="231.86475958716"
+              potential_bud="50.1172374199445" lat="17.8782803" long="102.7412638">
+        <ind tsic="23921" potential="4.98225546823218"></ind>
+        <ind tsic="23953" potential="226.882504118928"></ind>
+        <bud type="โรงพยาบาล" potential="50.1172374199445"></bud>
+
+    </province>
+    <province name="นครศรีธรรมราช" potential_sum="309.015186630051" potential_ind="285.075065618786"
+              potential_bud="23.9401210112652" lat="8.4303975" long="99.9631219">
+        <ind tsic="23961" potential="285.075065618786"></ind>
+        <bud type="โรงเรียน" potential="23.9401210112652"></bud>
+    </province>
+    <province name="ชุมพร" potential_sum="316.42148902566" potential_ind="193.440772654104"
+              potential_bud="122.980716371556" lat="10.4930496" long="99.1800199">
+        <ind tsic="10795" potential="193.440772654104"></ind>
+        <bud type="ห้างสรรพสินค้า" potential="122.980716371556"></bud>
+
+    </province>
+    <province name="พังงา" potential_sum="318.519959994317" potential_ind="300.064312091657"
+              potential_bud="18.4556479026607" lat="8.4407456" long="98.5193032">
+        <ind tsic="36002" potential="300.064312091657"></ind>
+        <bud type="โรงเรียน" potential="18.4556479026607"></bud>
+
+    </province>
+    <province name="ยะลา" potential_sum="711.504513445695" potential_ind="72.1619684688949"
+              potential_bud="639.342544976801" lat="6.541147" long="101.2803947">
+        <ind tsic="23953" potential="72.1619684688949"></ind>
+        <bud type="โรงเรียน" potential="639.342544976801"></bud>
+
+    </province>
+    <province name="ปราจีนบุรี" potential_sum="787.404942245075" potential_ind="0" potential_bud="787.404942245075"
+              lat="14.0509704" long="101.3727439">
+        <bud type="โรงพยาบาล" potential="489.650833359663"></bud>
+        <bud type="โรงเรียน" potential="297.754108885412"></bud>
+
+    </province>
+    <province name="เลย" potential_sum="833.647273056595" potential_ind="515.8812612442"
+              potential_bud="317.766011812395" lat="17.4860232" long="101.7223002">
+        <ind tsic="23953" potential="515.8812612442"></ind>
+        <bud type="โรงเรียน" potential="250.236402082061"></bud>
+        <bud type="โรงพยาบาล" potential="67.5296097303341"></bud>
+
+    </province>
+    <province name="น่าน" potential_sum="861.527279613669" potential_ind="861.527279613669" potential_bud="0"
+              lat="18.7756318" long="100.7730417">
+        <ind tsic="10304" potential="694.567522014957"></ind>
+        <ind tsic="23961" potential="166.959757598712"></ind>
+    </province>
+    <province name="สุพรรณบุรี" potential_sum="929.83909366579" potential_ind="387.164046965248"
+              potential_bud="542.675046700541" lat="14.4744892" long="100.1177128">
+        <ind tsic="31001" potential="387.164046965248"></ind>
+        <bud type="โรงพยาบาล" potential="542.675046700541"></bud>
+
+    </province>
+    <province name="ระนอง" potential_sum="1043.03063709939" potential_ind="0" potential_bud="1043.03063709939"
+              lat="9.9528702" long="98.6084641">
+        <bud type="โรงแรม" potential="1043.03063709939"></bud>
+
+    </province>
+    <province name="ระยอง" potential_sum="1129.99198228755" potential_ind="713.117963497775"
+              potential_bud="416.874018789779" lat="12.6833115" long="101.2374295">
+        <ind tsic="23961" potential="713.117963497775"></ind>
+        <bud type="โรงเรียน" potential="416.874018789779"></bud>
+
+    </province>
+    <province name="สุโขทัย" potential_sum="1142.10434617933" potential_ind="1142.10434617933" potential_bud="0"
+              lat="17.0055573" long="99.8263712">
+        <ind tsic="10795" potential="1142.10434617933"></ind>
+
+    </province>
+    <province name="นครพนม" potential_sum="1219.70388451231" potential_ind="939.919096487074"
+              potential_bud="279.784788025239" lat="17.392039" long="104.7695508">
+        <ind tsic="10611" potential="609.872569074897"></ind>
+        <ind tsic="23953" potential="330.046527412176"></ind>
+        <bud type="โรงพยาบาล" potential="242.974548446086"></bud>
+        <bud type="โรงเรียน" potential="33.523187603397"></bud>
+        <bud type="โรงแรม" potential="3.28705197575669"></bud>
+
+    </province>
+    <province name="นครนายก" potential_sum="1336.10420888229" potential_ind="0" potential_bud="1336.10420888229"
+              lat="14.2069466" long="101.2130511">
+        <bud type="โรงเรียน" potential="1316.27925731465"></bud>
+        <bud type="โรงแรม" potential="19.8249515676434"></bud>
+
+    </province>
+    <province name="พระนครศรีอยุธยา" potential_sum="1540.09140138261" potential_ind="0" potential_bud="1540.09140138261"
+              lat="14.3532128" long="100.5689599">
+        <bud type="โรงเรียน" potential="1423.2479112608"></bud>
+        <bud type="โรงแรม" potential="116.843490121813"></bud>
+
+    </province>
+    <province name="จันทบุรี" potential_sum="1861.1364494688" potential_ind="0" potential_bud="1861.1364494688"
+              lat="12.61134" long="102.1038546">
+        <bud type="โรงเรียน" potential="872.723418520972"></bud>
+        <bud type="โรงพยาบาล" potential="804.886301683505"></bud>
+        <bud type="โรงแรม" potential="183.526729264321"></bud>
+
+    </province>
+    <province name="ตราด" potential_sum="1937.26296384022" potential_ind="538.23491703868"
+              potential_bud="1399.02804680154" lat="12.2427563" long="102.5174734">
+        <ind tsic="10795" potential="538.23491703868"></ind>
+        <bud type="โรงพยาบาล" potential="1399.02804680154"></bud>
+
+    </province>
+    <province name="นราธิวาส" potential_sum="1950.03551207858" potential_ind="987.234235867811"
+              potential_bud="962.801276210771" lat="6.4254607" long="101.8253143">
+        <ind tsic="16220" potential="961.463948963162"></ind>
+        <ind tsic="23961" potential="25.7702869046491"></ind>
+        <bud type="โรงเรียน" potential="687.712599351385"></bud>
+        <bud type="โรงพยาบาล" potential="275.088676859385"></bud>
+
+    </province>
+    <province name="ประจวบคีรีขันธ์" potential_sum="2285.48504405375" potential_ind="0" potential_bud="2285.48504405375"
+              lat="11.812367" long="99.7973271">
+        <bud type="โรงแรม" potential="2285.48504405375"></bud>
+
+    </province>
+    <province name="นนทบุรี" potential_sum="2876.48644689452" potential_ind="0" potential_bud="2876.48644689452"
+              lat="13.8621125" long="100.5143528">
+        <bud type="โรงเรียน" potential="2876.48644689452"></bud>
+
+    </province>
+    <province name="นครปฐม" potential_sum="2969.00597309142" potential_ind="0" potential_bud="2969.00597309142"
+              lat="13.8199206" long="100.0621676">
+        <bud type="โรงเรียน" potential="2969.00597309142"></bud>
+
+    </province>
+
+</provinces>

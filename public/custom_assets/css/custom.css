@@ -1,0 +1,65 @@
+/* Main */
+
+.navbar-brand>img {
+	position: absolute;
+    left: 0%;
+    bottom: 10%;
+    margin-left: -75px !important;  /* 50% of your logo width */
+    display: block;
+}
+
+.navbar-brand-logo {
+    height: 40px; 
+    width: auto;
+}
+
+.layout-content-body {
+    padding: 0px 5px 5px 5px;
+}
+
+.breadcrumb {
+    padding: 5px 0px 5px 5px;
+    margin-bottom: 0px;
+}
+
+.panel {
+	margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.panel-body {
+    padding: 5px 5px 5px 5px;
+}
+
+.hidden {
+    display: none
+}
+
+.card-body {
+    padding: 15px;
+    position: relative;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #6185a8;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right
+}
+
+.text-red {
+    color: red;
+}
+
+.card-body {
+  padding: 10px 10px 10px 10px;
+  position: relative;
+}
